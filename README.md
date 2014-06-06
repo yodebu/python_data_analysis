@@ -1,4 +1,4 @@
-python_data_analysis
+Python Data Analysis
 ====================
 
-Data analysis and manipulation examples using Python
+Data analysis and manipulation examples using Python.
